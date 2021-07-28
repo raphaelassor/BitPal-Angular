@@ -1,4 +1,4 @@
-# BitcoinWallet
+# BitcoinWallet -completed 08.07.2021 - 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.4.
 
